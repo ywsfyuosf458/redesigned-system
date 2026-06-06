@@ -37,7 +37,7 @@ from telegram.ext import (
 # CONFIG
 # =========================================================
 
-TOKEN = os.environ.get('BOT_TOKEN', '7799475779:AAFufgGFGJctE_50R4me4WbW2ovxPjvsUQU') # Modified to use environment variable
+TOKEN = os.environ.get('BOT_TOKEN', '7799475779:AAHRy0s3jveFzhD2v6lnX-fneKWc9UHxSbk') # Modified to use environment variable
 
 
 
